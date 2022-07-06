@@ -25,8 +25,9 @@ the labels:
 #### Finbert-fls
 Forward-looking statements (FLS) inform investors of managers’ beliefs and opinions about firm's future events or results. Identifying forward-looking statements from corporate reports can assist investors in financial analysis.
 ###### what is forward looking statements?
-It is any statement about future plans and perspectives
-labels : 
+It is any statement about future plans and perspectives.
+
+The labels : 
 1. Specific-FLS 
 2. Non-specific FLS
 3. Not-FLS.
