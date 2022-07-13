@@ -10,7 +10,7 @@
 | | |2| | | |
 | | |10| | | |
 | | |nan| | | |
-| |for short positions|1|Total Positions| |Qty*Leverage*Price|
+| |for short positions|1|Total Positions| |Qty * Leverage * Price|
 | | |2| | | |
 | | |10| | | |
 | | |nan| | | |
